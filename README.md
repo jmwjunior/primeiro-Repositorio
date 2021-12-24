@@ -3,4 +3,4 @@
 
  Repositório desenvolvido para testar Git e GitHub Desktop
  
- Linha adicionada diretamente pelo GitHub online
+ Linha adicionada diretamente pelo GitHub online. 
